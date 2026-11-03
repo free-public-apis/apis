@@ -589,6 +589,7 @@ API | Description | Auth | HTTPS | CORS |
 ### Documents & Productivity
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [KaijuConverter](https://kaijuconverter.com/api-docs) | Convert 201+ file formats (HEIC, PDF, DOCX, CSV, ODS, RAW, CAD, MP4, MP3), 54 Studio tools & MCP Server | `apiKey` | Yes | Yes |
 | [Airtable](https://airtable.com/api) | Integrate with Airtable | `apiKey` | Yes | Unknown |
 | [Api2Convert](https://www.api2convert.com/) | Online File Conversion API | `apiKey` | Yes | Unknown |
 | [apilayer pdflayer](https://pdflayer.com) | HTML/URL to PDF | `apiKey` | Yes | Unknown |
